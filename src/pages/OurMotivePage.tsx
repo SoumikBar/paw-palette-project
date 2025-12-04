@@ -10,7 +10,7 @@ const values = [
 ];
 
 const timeline = [
-  { year: "2023", title: "The Beginning", description: "Started with a small group of friends feeding stray dogs in our neighborhood", side: "left" },
+  { year: "2025", title: "The Beginning", description: "Started with a small group of friends feeding stray dogs in our neighborhood", side: "left" },
   { year: "2023", title: "Growing Impact", description: "Expanded our reach to cover more areas and recruited more volunteers", side: "right" },
   { year: "2024", title: "Medical Support", description: "Partnered with local vets to provide medical care for injured animals", side: "left" },
   { year: "2024", title: "Community Programs", description: "Launched awareness campaigns in schools and communities", side: "right" },
