@@ -19,7 +19,7 @@ const timeline = [
 
 const team = [
   { name: "Core Team", role: "Founders & Coordinators", count: 4 },
-  { name: "Volunteers", role: "Field Workers", count: 12 },
+  { name: "Volunteers", role: "Field Workers", count: 16 },
 ];
 
 const OurMotivePage = () => {
