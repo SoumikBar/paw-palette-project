@@ -56,7 +56,7 @@ const Navigation = ({
           scale: 1.02
         }} whileTap={{
           scale: 0.98
-        }}>Feed Paws Initiative<img src="https://i.ibb.co/YFqj0WYr/Whats-App-Image-2025-11-04-at-10-09-36-0bf639c7.jpg" alt="Feed Paws Logo" className="object-cover w-10 h-10 rounded-full md:w-12 md:h-12" />
+        }}>​<img src="https://i.ibb.co/YFqj0WYr/Whats-App-Image-2025-11-04-at-10-09-36-0bf639c7.jpg" alt="Feed Paws Logo" className="object-cover w-10 h-10 rounded-full md:w-12 md:h-12" />
             <span className="text-xl font-serif font-medium text-foreground md:text-2xl">Feed Paws </span>
           </motion.button>
 
